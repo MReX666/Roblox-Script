@@ -1,8 +1,8 @@
 # FavoN HUB 1.0
 
-- List Game
+# List Game
 
-Nuke Simulator ✅ [Not Finished]
-Mining Factory Tycoon ✅
-Rebirth Champion X ✅
-Tapping Simulator ✅
+- Nuke Simulator ✅ [Not Finished]
+- Mining Factory Tycoon ✅
+- Rebirth Champion X ✅
+- Tapping Simulator ✅
